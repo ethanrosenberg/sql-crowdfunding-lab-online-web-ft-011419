@@ -13,7 +13,7 @@ name TEXT,
 age INTEGER
 );
 
-CREATE TABLE pledges(
+CREATE TABLE pledges (
 
 
 
